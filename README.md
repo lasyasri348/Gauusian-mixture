@@ -1,1 +1,1 @@
-# Gauusian-mixture
+# gaussian-mixture
